@@ -10,5 +10,6 @@ public class Manager1
 	 System.out.println("Perform Pull Request"); 
 	 System.out.println("Perform Pull Request immediately");   
 	 System.out.println("Perform Pull Request immediately");   
+	 System.out.println("Perform Pull Request immediately");    
   }
 }
